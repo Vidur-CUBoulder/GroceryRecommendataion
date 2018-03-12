@@ -1,0 +1,15 @@
+#!usr/bin/python
+
+from pygame import mixer
+from gtts import gTTS
+
+tts = gTTS(text='Tatti potty susu',lang='hi',slow=False)
+tts.save("hello.mp3")
+
+while pygame.mixer.music.get_busy() == True:
+    continue
+
+mixer.init()
+mixer.music.load('hello.mp3')
+mixer.music.play()
+

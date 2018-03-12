@@ -1,2 +1,3 @@
-# GroceryRecommendataion
-Grocery Recommendation System in Python
+# Grocery_Recommendation
+
+This is a WIP

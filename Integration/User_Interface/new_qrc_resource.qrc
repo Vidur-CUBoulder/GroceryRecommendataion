@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="new_image_path">
+    <file>fandv.jpg</file>
+    <file>icon_milk.png</file>
+    <file>soap.png</file>
+    <file>beer.png</file>
+  </qresource>
+</RCC>

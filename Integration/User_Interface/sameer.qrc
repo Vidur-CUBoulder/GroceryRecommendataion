@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>fandv.jpg</file>
+    <file>emoji.png</file>
+    <file>fandv.jpg</file>
+    <file>shopping_cart_red.png</file>
+  </qresource>
+</RCC>
